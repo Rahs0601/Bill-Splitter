@@ -119,9 +119,15 @@ def main():
     # num = st.number_input("Enter the number of people:")
     ans = st.radio("Is the bill being split equally?", ("Yes", "No"))
     if ans == "Yes":
-        equal()
+        try:
+            equal()
+        except:
+            pass
     else:
-        unequal()
+        try:
+            unequal()
+        except:
+            pass
 
 
 if __name__ == "__main__":
