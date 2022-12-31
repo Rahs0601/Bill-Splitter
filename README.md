@@ -1,3 +1,4 @@
+https://bit.ly/rahsplitbill
 ![image](https://user-images.githubusercontent.com/92166609/209478920-83b3f9a0-a807-48d8-a46f-9201fd3a9422.png)
 Bill Splitter
 This is a simple Python application that helps a group of people split their bills equally or unequally.
