@@ -7,9 +7,7 @@ Welcome to the Bill Splitter! This is a simple and user-friendly tool that allow
 [**https://bit.ly/rahsplitbill**](https://bit.ly/rahsplitbill)
 
 **Screenshot**
-
-![](Aspose.Words.54dc1e1c-2fa0-4f5f-8031-0c59103d4438.001.png)
-
+![image](https://user-images.githubusercontent.com/92166609/210123440-c3a30903-9029-4f95-b599-ce919aabca86.png)
 
 **Features**
 
